@@ -1,4 +1,4 @@
-einops==0.8.1
+einops==0.8.2
 h5py==3.11.0
 matplotlib==3.9.4
 networkx==3.1
