@@ -5,7 +5,7 @@ networkx==3.1
 numpy==2.4.1
 pandas==3.0.0
 pillow==10.4.0
-PyWavelets==1.6.0
+PyWavelets==1.9.0
 PyYAML==6.0.2
 scikit-learn==1.8.0
 scipy==1.17.0
