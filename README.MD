@@ -1,4 +1,4 @@
-# STDiffusion (ICDM 2025)
+# Effective Series Decomposition and Components Learning for Time Series Generation (ICDM 2025)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1+cu121-orange.svg)
 ![Dependabot enabled](https://img.shields.io/badge/Dependabot-enabled-brightgreen?logo=dependabot)
