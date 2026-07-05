@@ -7,7 +7,7 @@
 Official implementation for STDiffusion, published in ICDM 2025.
 
 ## Authors
-Zixuan Ma, Chenfeng Huang
+Zixuan Ma, **Chenfeng Huang**
 
 ![Model Structure](Model_structure.jpg)
 
