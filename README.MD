@@ -136,9 +136,11 @@ These evaluation materials provide reproducible results and serve as reference i
 If you use this code in your research, please cite:
 ```bibtex
 @inproceedings{2025stdiffusion,
-  title={STDiffusion: Structure-aware Time Series Generation with Diffusion Models},
   author={Ma, Zixuan and Huang, Chenfeng},
-  booktitle={IEEE International Conference on Data Mining (ICDM)},
-  year={2025}
+  booktitle={2025 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Effective Series Decomposition and Components Learning for Time Series Generation}, 
+  year={2025},
+  pages={545-554},
+  doi={10.1109/ICDM65498.2025.00062}
 }
 ```
