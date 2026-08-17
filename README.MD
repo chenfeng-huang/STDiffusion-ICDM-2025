@@ -1,3 +1,5 @@
+
+
 # Effective Series Decomposition and Components Learning for Time Series Generation (ICDM 2025)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1+cu121-orange.svg)
@@ -73,7 +75,7 @@ python models/trainer.py \
 ```
 
 ### Command Parameters
-- `config`: Configuration file path (e.g., `config/ETTh1.yaml`)
+- `config`: Configuration file name without extension (e.g., `stock`)
 - `seed`: Random seed for reproducibility
 - `note`: Custom label for the experiment
 - `action`: Choose between `train` or `sample`
@@ -128,7 +130,6 @@ The `evaluations/` directory contains comprehensive experiment results and evalu
   - Includes `longterm_seq_generation_results.md` with summarized findings
 
 These evaluation materials provide reproducible results and serve as reference implementations for the metrics and experiments described in the paper.
-
 
 
 
